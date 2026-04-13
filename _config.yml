@@ -7,17 +7,17 @@
 locale: "en-US"            # Main language/locale of the site
 site_theme: "default"      # Theme skin used by the site
 
-title: "Lijing Zhu | Data Science & ML Research"   # Text shown in browser tab and SEO metadata
+title: "Sara Ray | Data Science & Business Intelligence"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
-name: "Lijing Zhu"         # Main name shown across the site
-description: "Academic portfolio and research in data science and machine learning"  # Short site description for search engines
+name: "Sara Ray"         # Main name shown across the site
+description: "Academic portfolio and research in data science and business intelligence"  # Short site description for search engines
 
 # -------------------------
 # GitHub Pages repository settings
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "https://lijingzhu1.github.io"
+url: "https://sararay2017.github.io"
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,25 +26,22 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "lijingzhu1/lijingzhu1.github.io"
+repository: "SaraRay2017/sararay2017.github.io"
 
 # -------------------------
 # Author profile information
 # -------------------------
 author:
-  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
-  name: "Lijing Zhu"
-  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
-  location: "TX"
-  employer: "University of Houston-Clear Lake"
-  email: "zhul@uhcl.edu"
+  avatar: "134147360224167024.jpg"    # Profile image file shown in the sidebar/profile area
+  name: "Sara Ray."
+  bio: "Data Science MS Student at University of Houston-Clear Lake focusing on data analytics and business intelligence."
+  location: "Friendswood, TX"
+  email: "sara.ray.2017@gmail.com"
 
-  # Professional / academic links
+  # Professional/academic links
   # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+  github: "SaraRay2017"
+  linkedin: "www.linkedin.com/in/sara-ray-2017"
 
 # -------------------------
 # General behavior
