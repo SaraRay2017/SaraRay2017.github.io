@@ -2,10 +2,6 @@
 permalink: /
 title: "About Sara Ray"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am an MS student in Data Science at the [University of Houston-Clear Lake](https://www.uhcl.edu/). My coursework focuses on data analytics, business intelligence, and machine learning.
 
