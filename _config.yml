@@ -17,7 +17,7 @@ description: "Academic portfolio and research in data science and business intel
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "https://sararay2017.github.io"
+url: "https://SaraRay2017.github.io"
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,7 +26,7 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "SaraRay2017/sararay2017.github.io"
+repository: "SaraRay2017/SaraRay2017.github.io"
 
 # -------------------------
 # Author profile information
