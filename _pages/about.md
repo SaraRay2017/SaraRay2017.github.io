@@ -7,7 +7,7 @@ author_profile: true
 I am an MS student in Data Science at the [University of Houston-Clear Lake](https://www.uhcl.edu/). My coursework focuses on data analytics, business intelligence, and machine learning.
 
 <div style="border: 1px solid #ddd; border-radius: 14px; padding: 1rem 1.25rem; margin: 1.5rem 0; background: #fafafa;">
-  <strong>Work Opportunities:</strong> I am currently pursuing a summer internship to build my data analytics skills and contribute to future projects to help with real-world issues.</div>
+  <strong>Work Opportunities:</strong> I am currently seeking a summer internship where I can strengthen my data analytics skills and apply them to meaningful, real-world challenges.</div>
 
 
 ## Research Interests
