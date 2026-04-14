@@ -20,6 +20,7 @@ I am an MS student in Data Science at the [University of Houston-Clear Lake](htt
 
 - **January 2025**: Started at the [University of Houston-Clear Lake](https://www.uhcl.edu/) as Data Science student.
 - **May 2020**: Earned an MA in Cross-Cultural and Global Studies from [University of Houston-Clear Lake](https://www.uhcl.edu/).
+- **May 2020**: Published Thesis at the [University of Houston-Clear Lake](https://hdl.handle.net/10657.1/2376).
 
 
 
