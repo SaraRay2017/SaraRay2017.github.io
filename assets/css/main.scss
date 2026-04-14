@@ -42,7 +42,7 @@
     "vendor/font-awesome/brands"
 ;
 html, body {
-  background: linear-gradient(to right, #9fc3cc, #8fb9c4) !important;
+  background: linear-gradient(to right, #e4f4f7, #d0eaf0) !important;
 }
 
 .page {
@@ -51,4 +51,13 @@ html, body {
 
 .page__content {
   background: transparent !important;
+
+a {
+  color: #0b5f73 !important;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #084c5a !important;
+}
 }
