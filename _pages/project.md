@@ -14,7 +14,7 @@ Students should include only projects they are comfortable showing publicly.
 **Type:** Course Project / Research Project / Team Project  
 **Date:** Fall 2025
 **Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn  
-**Link:** [View Report](/files/Project Report.pdf)
+**Link:** [View Report](/files/ProjectReport.pdf)
 
 Write 2 to 4 sentences describing the project:
 - What problem did the project address?
