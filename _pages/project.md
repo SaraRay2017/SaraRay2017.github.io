@@ -9,12 +9,12 @@ This page highlights selected coursework, research, technical, or portfolio proj
 
 Students should include only projects they are comfortable showing publicly.
 
-## Project 1: Project Title
+## Project 1: Analysis of COVID-19 Vaccination Disparity Across Texas
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Spring 2026  
+**Type:** Course Project / Research Project / Team Project  
+**Date:** Fall 2025
 **Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn  
-**Link:** [GitHub Repository](https://github.com/yourusername/your-repo)
+**Link:** [View Report](/files/)
 
 Write 2 to 4 sentences describing the project:
 - What problem did the project address?
