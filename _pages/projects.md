@@ -27,12 +27,12 @@ This project analyzed COVID-19 vaccination disparities across Texas using county
 
 This project involved designing and implementing a relational database for a DMV system. I identified key entities and relationships, developed ER diagrams, and built the full schema using SQL with primary and foreign keys. The database supports complex relationships such as multiple vehicle owners, accident involvement, and citation tracking, ensuring data integrity and scalability. 
 
-## Project 3:  
+## Project 3:  Business Data Visualization Using Excel 
 
 **Type:** Course Project / Research Project   
-**Date:** Fall 2025  
-**Tools:** SQL, Microsoft   
-**Link:** [View Report](/files/RayDMVProject.pdf)
+**Date:** Spring 2026 
+**Tools:** Excel  
+**Link:** [View Report](/files/DataVisualizationAssignment.pdf)
 
 This project analyzed retail sales trends using Excel and a Kaggle dataset. I developed pivot tables, charts, and statistical analyses (ANOVA and t-tests) to evaluate differences in sales across product categories, gender, age groups, and time. The analysis revealed that sales patterns are primarily driven by customer demographics and seasonality, with significant insights for targeted marketing strategies.
 
