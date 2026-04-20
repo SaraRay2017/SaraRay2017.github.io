@@ -4,7 +4,9 @@ title: "About Sara Ray"
 author_profile: true
 ---
 
-I am an MS student in Data Science at the [University of Houston-Clear Lake](https://www.uhcl.edu/). My coursework focuses on data analytics, business intelligence, and machine learning.
+ I am a graduate student in Data Science with a background in education and applied research, focused on transitioning into data analytics. My experience includes data cleaning, analysis, and visualization using Python, SQL, Tableau, and Excel, as well as applying statistical methods to uncover trends and insights.
+
+As a former educator, I bring strong communication, organization, and problem-solving skills, along with the ability to explain complex findings to technical and non-technical audiences. 
 
 <div style="border: 1px solid #ddd; border-radius: 14px; padding: 1rem 1.25rem; margin: 1.5rem 0; background: #fafafa;">
   <strong>Work Opportunities:</strong> I am currently seeking a summer internship where I can strengthen my data analytics skills and apply them to meaningful, real-world challenges.</div>
