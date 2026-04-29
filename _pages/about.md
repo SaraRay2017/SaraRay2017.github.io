@@ -18,7 +18,17 @@ As a former educator, I bring strong communication, organization, and problem-so
 - Business Intelligence
 - Machine Learning
 
-## News
+## Technical Skills 
+
+| Category             | Tools & Technologies                                      |
+|----------------------|-----------------------------------------------------------|
+| **Languages**        | Python, SQL                                               |
+| **ML & Data Science**| Scikit-learn, Pandas, NumPy, Regression, Classification   |
+| **Visualization**    | Tableau, Matplotlib, Seaborn                              |
+| **Environment**      | GitHub, Jupyter Notebooks, Colab, Excel              |
+
+
+## Education 
 
 - **January 2025**: Started at the [University of Houston-Clear Lake](https://www.uhcl.edu/) as Data Science student.
 - **May 2020**: Earned an MA in Cross-Cultural and Global Studies from [University of Houston-Clear Lake](https://www.uhcl.edu/).
