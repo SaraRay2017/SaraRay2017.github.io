@@ -13,9 +13,9 @@ This page highlights selected coursework, research, and technical projects.
 **Type:** Course Project / Research Project / Team Project  
 **Date:** Spring 2016  
 **Tools:** Python, Colab Notebook, Pandas, Scikit-learn  
-**Link:** [View Report](
+**Link:** [View Report](ML_Final_Project_Report.docx.pdf)
 
-This project analyzed COVID-19 vaccination disparities across Texas using county-level CDC data. I was involved in cleaning and preprocessing the data, conducting exploratory data analysis, and applying statistical testing to evaluate differences between metro and non-metro counties. The analysis found that metro counties consistently had higher vaccination rates, revealing a significant urban–rural gap and emphasizing the need for targeted public health interventions.
+This machine learning project used the UCI Heart Disease Dataset to predict whether patients were at risk for heart disease using clinical and demographic data. Multiple models were tested, including Logistic Regression, Random Forest, SVM, and KNN, with the SVM model achieving the best overall performance by correctly identifying about 94% of heart disease cases. The project also included feature analysis, cross-validation, and model evaluation techniques to support accurate and reliable predictions for potential healthcare screening applications.
 
 ## Project 3: Analysis of COVID-19 Vaccination Disparity Across Texas
 
