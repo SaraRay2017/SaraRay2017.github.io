@@ -13,7 +13,7 @@ This page highlights selected coursework, research, and technical projects.
 **Type:** Course Project / Research Project / Team Project  
 **Date:** Spring 2016  
 **Tools:** Python, Colab Notebook, Pandas, Scikit-learn  
-**Link:** [View Report](/files/ML_Final_Project_Report.pdf)
+**Link:** [View Report](/files/MLFinalProjectReport.pdf)
 **Link:** [View Report](/files/ML_Heart_Data_Final_Project_w_Bonus.pdf)
 
 This machine learning project used the UCI Heart Disease Dataset to predict whether patients were at risk for heart disease using clinical and demographic data. Multiple models were tested, including Logistic Regression, Random Forest, SVM, and KNN, with the SVM model achieving the best overall performance by correctly identifying about 94% of heart disease cases. The project also included feature analysis, cross-validation, and model evaluation techniques to support accurate and reliable predictions for potential healthcare screening applications.
