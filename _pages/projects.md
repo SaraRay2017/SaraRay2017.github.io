@@ -18,6 +18,15 @@ This page highlights selected coursework, research, and technical projects.
 
 This machine learning project used the UCI Heart Disease Dataset to predict whether patients were at risk for heart disease using clinical and demographic data. Multiple models were tested, including Logistic Regression, Random Forest, SVM, and KNN, with the SVM model achieving the best overall performance by correctly identifying about 94% of heart disease cases. The project also included feature analysis, cross-validation, and model evaluation techniques to support accurate and reliable predictions for potential healthcare screening applications.
 
+## Project 2: Multi-Year Road Race Analysis: Participation and Performance Insights (2021-2025) 
+
+**Type:** Course Project / Research Project / Team Project  
+**Date:** Spring 2026  
+**Tools:** Tableau, Python, Colab Notebook, Pandas, Scikit-learn  
+**Link:** [View Report](/files/VisualizationFinalProjectReport.pdf)
+
+This data visualization project analyzed five years of road race participation and performance data (2021–2025) to identify trends in demographics, race participation, geographic distribution, and runner performance. Using Python for data preparation and Tableau for analysis, interactive dashboards were created to allow users to explore participation and performance patterns by race year, distance, age group, and gender. The project demonstrates how data visualization and interactive reporting can support data-driven decision-making for race organizers and improve future event planning and participant engagement.
+
 ## Project 3: Analysis of COVID-19 Vaccination Disparity Across Texas
 
 **Type:** Course Project / Research Project / Team Project  
