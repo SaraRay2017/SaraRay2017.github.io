@@ -5,4 +5,4 @@ permalink: /resume/
 author_profile: true
 ---
 
-[Download My Resume](/files/SaraRayResume.pdf)
+[Download My Resume](/files/Sara_Ray_Resume.pdf)
