@@ -9,7 +9,7 @@ author_profile: true
 As a former educator, I bring strong communication, organization, and problem-solving skills, along with the ability to explain complex findings to technical and non-technical audiences. 
 
 <div style="border: 1px solid #ddd; border-radius: 14px; padding: 1rem 1.25rem; margin: 1.5rem 0; background: #fafafa;">
-  <strong>Work Opportunities:</strong> I am currently seeking a summer internship where I can strengthen my data analytics skills and apply them to meaningful, real-world challenges.</div>
+  <strong>Work Opportunities:</strong> I am seeking opportunities in data science, data analytics, or business intelligence where I can apply my analytical and technical skills to solve meaningful, real-world problems.</div>
 
 
 ## Research Interests
